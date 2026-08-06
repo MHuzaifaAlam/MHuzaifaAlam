@@ -159,13 +159,10 @@ A full-stack web application that detects manipulated images using **Generative 
     <img src="https://img.shields.io/badge/LinkedIn-M.Huzaifa_Alam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:mhuzaifaalam7@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-
-📧 Email: [mhuzaifaalam7@gmail.com](mailto:YOUR_EMAIL@example.com)
 
 ---
 
