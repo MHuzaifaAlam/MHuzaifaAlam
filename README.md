@@ -144,9 +144,6 @@ A full-stack web application that detects manipulated images using **Generative 
 * Microservices
 
 ---
-
-## 🤝 Let's Connect
-
 ## 🤝 Let's Connect
 
 <p align="center">
