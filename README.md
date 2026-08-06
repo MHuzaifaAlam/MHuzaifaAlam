@@ -114,23 +114,23 @@ A full-stack web application that detects manipulated images using **Generative 
 
 > Replace **MHuzaifaAlam** below with your GitHub username.
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=MHuzaifaAlam\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MHuzaifaAlam\&theme=tokyonight\&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=true\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifaAlam\&theme=tokyonight\&hide_border=true\&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME\&theme=tokyonight\&no-frame=true\&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=MHuzaifaAlam\&theme=tokyonight\&no-frame=true\&margin-w=10)
 
 ---
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME\&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=MHuzaifaAlam\&theme=tokyo-night)
 
 ---
 
