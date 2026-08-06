@@ -149,7 +149,7 @@ A full-stack web application that detects manipulated images using **Generative 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
 
-📧 Email: [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
+📧 Email: [mhuzaifaalam7@gmail.com](mailto:YOUR_EMAIL@example.com)
 
 ---
 
