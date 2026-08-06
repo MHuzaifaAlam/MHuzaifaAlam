@@ -122,12 +122,6 @@ A full-stack web application that detects manipulated images using **Generative 
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=MHuzaifaAlam\&theme=tokyonight\&no-frame=true\&margin-w=10)
-
----
-
 ## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=MHuzaifaAlam\&theme=tokyo-night)
