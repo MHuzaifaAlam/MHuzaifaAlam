@@ -99,8 +99,8 @@ A full-stack web application that detects manipulated images using **Generative 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MHuzaifaAlam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifaAlam&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=MHuzaifaAlam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MHuzaifaAlam&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHuzaifaAlam&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
@@ -112,14 +112,9 @@ A full-stack web application that detects manipulated images using **Generative 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MHuzaifaAlam&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="100%" />
+<img src="https://fabianocouto-activity-graph.vercel.app/graph?username=MHuzaifaAlam&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="100%" />
 
 </div>
-
-> **Note:** the stats, streak, and contribution-graph images above are powered by third-party public services (github-readme-stats, github-readme-streak-stats, github-readme-activity-graph). They only render correctly when:
-> 1. The `MHuzaifaAlam` in every URL is your real GitHub username (already set to `MHuzaifaAlam` here — update it everywhere if this isn't yours).
-> 2. Your GitHub contribution graph is **public** (Settings → Profile → "Make profile private" unchecked, and "Private contributions" included if you want private commits to count).
-> 3. This README lives in a repo named **exactly** `MHuzaifaAlam/MHuzaifaAlam` — GitHub only shows a profile README from a repo matching your username.
 
 ---
 
