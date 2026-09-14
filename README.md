@@ -117,7 +117,7 @@ A full-stack web application that detects manipulated images using **Generative 
 </div>
 
 > **Note:** the stats, streak, and contribution-graph images above are powered by third-party public services (github-readme-stats, github-readme-streak-stats, github-readme-activity-graph). They only render correctly when:
-> 1. The `username` in every URL is your real GitHub username (already set to `MHuzaifaAlam` here — update it everywhere if this isn't yours).
+> 1. The `MHuzaifaAlam` in every URL is your real GitHub username (already set to `MHuzaifaAlam` here — update it everywhere if this isn't yours).
 > 2. Your GitHub contribution graph is **public** (Settings → Profile → "Make profile private" unchecked, and "Private contributions" included if you want private commits to count).
 > 3. This README lives in a repo named **exactly** `MHuzaifaAlam/MHuzaifaAlam` — GitHub only shows a profile README from a repo matching your username.
 
