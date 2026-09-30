@@ -136,20 +136,16 @@ A full-stack web application that **detects manipulated images using Generative 
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=MHuzaifaAlam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MHuzaifaAlam&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MHuzaifaAlam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifaAlam&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=MHuzaifaAlam&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MHuzaifaAlam&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MHuzaifaAlam&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+<img src="https://ghchart.rshah.org/3B82F6/MHuzaifaAlam" alt="Contribution graph" width="90%" />
 
 </div>
 
