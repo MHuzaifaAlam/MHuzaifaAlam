@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="M. Huzaifa Alam - Freelance Software Engineer" width="100%" />
+<img src="https://raw.githubusercontent.com/MHuzaifaAlam/MHuzaifaAlam/main/banner.svg" alt="M. Huzaifa Alam - Freelance Software Engineer" width="100%" />
 
 <img src="https://img.shields.io/badge/Status-Available_for_Freelance_Projects-22C55E?style=for-the-badge" alt="Available for freelance" />
 
@@ -184,6 +184,6 @@ I'm **available for freelance projects** — web apps, REST APIs, backend system
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
-<img src="./footer.svg" alt="Footer" width="100%" />
+<img src="https://raw.githubusercontent.com/MHuzaifaAlam/MHuzaifaAlam/main/footer.svg" alt="Footer" width="100%" />
 
 </div>
