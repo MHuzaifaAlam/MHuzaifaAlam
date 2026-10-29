@@ -1,21 +1,3 @@
-<!-- ============================================================
-     GitHub Profile README — M. Huzaifa Alam
-     Place this file in a repo named exactly: MHuzaifaAlam
-     ============================================================ -->
-
-<div align="center">
-<a href="https://github.com/MHuzaifaAlam">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Building+scalable+backends+with+Python+%26+Django;Crafting+modern+interfaces+with+React.js;Turning+ideas+into+production-ready+products;Exploring+AI+Engineering+%26+LLMs" alt="Typing animation" />
-</a>
-
-<br/>
-
-
-
-</div>
-
-<br/>
-
 ## 👨‍💻 About Me
 
 I'm a **Software Engineer at Expert System Solution** and a **BSCS graduate of the University of Central Punjab (UCP)**. I design and build reliable, scalable web applications — from clean REST APIs to responsive front-ends — and I'm deeply interested in applying **Machine Learning and AI** to real-world problems.
@@ -33,7 +15,17 @@ class Developer:
 ```
 
 <br/>
+<div align="center">
+<a href="https://github.com/MHuzaifaAlam">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Building+scalable+backends+with+Python+%26+Django;Crafting+modern+interfaces+with+React.js;Turning+ideas+into+production-ready+products;Exploring+AI+Engineering+%26+LLMs" alt="Typing animation" />
+</a>
 
+<br/>
+
+
+
+</div>
+<br/>
 ## 🛠️ What I Can Build For You
 
 | | Service | Details |
