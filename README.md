@@ -4,9 +4,6 @@
      ============================================================ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:3B82F6&height=200&section=header&text=M.%20Huzaifa%20Alam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Python%20%26%20Django%20%E2%80%A2%20React%20%E2%80%A2%20AI%2FML&descSize=18&descAlignY=60&animation=fadeIn" alt="Header banner" width="100%" />
-
 <a href="https://github.com/MHuzaifaAlam">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Building+scalable+backends+with+Python+%26+Django;Crafting+modern+interfaces+with+React.js;Turning+ideas+into+production-ready+products;Exploring+AI+Engineering+%26+LLMs" alt="Typing animation" />
 </a>
