@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:3B82F6&height=200&section=header&text=M.%20Huzaifa%20Alam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Freelance%20Software%20Engineer%20%E2%80%A2%20Python%20%26%20Django%20%E2%80%A2%20React%20%E2%80%A2%20AI%2FML&descSize=18&descAlignY=60&animation=fadeIn" alt="Header banner" width="100%" />
+<img src="./banner.svg" alt="M. Huzaifa Alam - Freelance Software Engineer" width="100%" />
 
 <img src="https://img.shields.io/badge/Status-Available_for_Freelance_Projects-22C55E?style=for-the-badge" alt="Available for freelance" />
 
@@ -184,6 +184,6 @@ I'm **available for freelance projects** — web apps, REST APIs, backend system
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1D4ED8,100:0F172A&height=120&section=footer" alt="Footer" width="100%" />
+<img src="./footer.svg" alt="Footer" width="100%" />
 
 </div>
