@@ -20,7 +20,6 @@ I'm a **freelance Software Engineer** and a **BSCS graduate of the University of
 
 I recently completed my internship at **Expert System Solution**, where I worked on Python and Django backend development, and I'm now taking on freelance projects for startups, businesses and individuals.
 
-
 <div align="center">
 
 <a href="https://github.com/MHuzaifaAlam">
@@ -134,25 +133,6 @@ A full-stack web application that **detects manipulated images using Generative 
 ![Cloud](https://img.shields.io/badge/Cloud_Computing-0EA5E9?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-059669?style=for-the-badge)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MHuzaifaAlam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifaAlam&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=MHuzaifaAlam&theme=tokyonight&hide_border=true" alt="Streak stats" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/3B82F6/MHuzaifaAlam" alt="Contribution graph" width="90%" />
 
 </div>
 
