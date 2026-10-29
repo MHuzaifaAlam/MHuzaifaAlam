@@ -138,6 +138,29 @@ A full-stack web application that **detects manipulated images using Generative 
 
 <br/>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MHuzaifaAlam/MHuzaifaAlam/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="48%" />
+<img src="https://raw.githubusercontent.com/MHuzaifaAlam/MHuzaifaAlam/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" width="48%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=MHuzaifaAlam&theme=tokyonight&hide_border=true" alt="Streak stats" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MHuzaifaAlam/MHuzaifaAlam/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MHuzaifaAlam/MHuzaifaAlam/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/MHuzaifaAlam/MHuzaifaAlam/output/github-snake-dark.svg" width="95%" />
+</picture>
+
+</div>
+
+<br/>
+
 ## 🤝 Let's Work Together
 
 I'm **available for freelance projects** — web apps, REST APIs, backend systems and AI/ML features. Have an idea or a problem to solve? Send me a message with a short description of what you need and I'll get back to you.
