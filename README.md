@@ -20,18 +20,6 @@ I'm a **freelance Software Engineer** and a **BSCS graduate of the University of
 
 I recently completed my internship at **Expert System Solution**, where I worked on Python and Django backend development, and I'm now taking on freelance projects for startups, businesses and individuals.
 
-```python
-class Developer:
-    name = "M. Huzaifa Alam"
-    role = "Freelance Software Engineer"
-    location = "Lahore, Pakistan"
-    status = "Available for new projects"
-    focus = ["Backend Engineering", "REST APIs", "Full-Stack Web", "Machine Learning"]
-    currently_learning = ["AI Engineering", "LLMs", "System Design", "Microservices"]
-
-    def philosophy(self):
-        return "Write clean code. Ship reliable products. Keep learning."
-```
 
 <div align="center">
 
