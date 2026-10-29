@@ -1,12 +1,31 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:3B82F6&height=200&section=header&text=M.%20Huzaifa%20Alam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Freelance%20Software%20Engineer%20%E2%80%A2%20Python%20%26%20Django%20%E2%80%A2%20React%20%E2%80%A2%20AI%2FML&descSize=18&descAlignY=60&animation=fadeIn" alt="Header banner" width="100%" />
+
+<img src="https://img.shields.io/badge/Status-Available_for_Freelance_Projects-22C55E?style=for-the-badge" alt="Available for freelance" />
+
+<br/>
+
+<a href="https://huzaifa-at-work.framer.website/"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/m-huzaifa-alam/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mhuzaifaalam7@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+<br/>
+
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer at Expert System Solution** and a **BSCS graduate of the University of Central Punjab (UCP)**. I design and build reliable, scalable web applications — from clean REST APIs to responsive front-ends — and I'm deeply interested in applying **Machine Learning and AI** to real-world problems.
+I'm a **freelance Software Engineer** and a **BSCS graduate of the University of Central Punjab (UCP)**. I build reliable, scalable web applications — from clean REST APIs to responsive front-ends — and I'm deeply interested in applying **Machine Learning and AI** to real-world problems.
+
+I recently completed my internship at **Expert System Solution**, where I worked on Python and Django backend development, and I'm now taking on freelance projects for startups, businesses and individuals.
 
 ```python
 class Developer:
     name = "M. Huzaifa Alam"
-    role = "Software Engineer"
+    role = "Freelance Software Engineer"
     location = "Lahore, Pakistan"
+    status = "Available for new projects"
     focus = ["Backend Engineering", "REST APIs", "Full-Stack Web", "Machine Learning"]
     currently_learning = ["AI Engineering", "LLMs", "System Design", "Microservices"]
 
@@ -14,18 +33,16 @@ class Developer:
         return "Write clean code. Ship reliable products. Keep learning."
 ```
 
-<br/>
 <div align="center">
+
 <a href="https://github.com/MHuzaifaAlam">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Building+scalable+backends+with+Python+%26+Django;Crafting+modern+interfaces+with+React.js;Turning+ideas+into+production-ready+products;Exploring+AI+Engineering+%26+LLMs" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Building+scalable+backends+with+Python+%26+Django;Crafting+modern+interfaces+with+React.js;Turning+ideas+into+production-ready+products;Now+open+for+freelance+projects" alt="Typing animation" />
 </a>
 
-<br/>
-
-
-
 </div>
+
 <br/>
+
 ## 🛠️ What I Can Build For You
 
 | | Service | Details |
@@ -35,6 +52,17 @@ class Developer:
 | 🤖 | **AI / ML Integration** | Computer-vision and deep-learning features with TensorFlow, Keras & OpenCV |
 | 🗄️ | **Database Design** | Efficient schemas and queries on PostgreSQL, MySQL and SQLite |
 | 🐳 | **Containerised Delivery** | Reproducible environments and deployments with Docker & Git workflows |
+
+<br/>
+
+## 🔄 How I Work
+
+| Step | What happens |
+|:---:|---|
+| **1. Discuss** | We talk through your idea, goals, timeline and budget |
+| **2. Plan** | I define the scope, tech stack and milestones before writing code |
+| **3. Build** | Clean, tested code with regular progress updates |
+| **4. Deliver** | Handover with documentation, plus support after launch |
 
 <br/>
 
@@ -68,11 +96,16 @@ A full-stack web application that **detects manipulated images using Generative 
 
 ## 💼 Experience
 
-**Software Engineer — Expert System Solution** &nbsp;·&nbsp; *Present*
-- Develop and maintain backend applications in **Python**
-- Design and build **REST APIs with Django**
-- Write clean, maintainable and scalable code
-- Collaborate with cross-functional teams to deliver features
+**Freelance Software Engineer** &nbsp;·&nbsp; *Present*
+- Building custom web applications and REST APIs for clients using Python, Django and React.js
+- Handling the full cycle: requirements, development, testing and delivery
+- Integrating machine-learning features into web products where they add value
+
+**Software Engineering Intern — Expert System Solution** &nbsp;·&nbsp; *Completed*
+- Developed backend applications using **Python**
+- Built **REST APIs with Django**
+- Wrote clean, maintainable and scalable code
+- Collaborated with cross-functional teams on real project work
 
 **.NET Intern — IncaNet** &nbsp;·&nbsp; *2022*
 - Learned software engineering fundamentals in a professional environment
@@ -139,7 +172,7 @@ A full-stack web application that **detects manipulated images using Generative 
 
 ## 🤝 Let's Work Together
 
-I'm open to **freelance projects, collaborations and full-time opportunities**. If you have an idea, a product to build or a problem to solve, I'd love to hear about it.
+I'm **available for freelance projects** — web apps, REST APIs, backend systems and AI/ML features. Have an idea or a problem to solve? Send me a message with a short description of what you need and I'll get back to you.
 
 <div align="center">
 
@@ -148,7 +181,6 @@ I'm open to **freelance projects, collaborations and full-time opportunities**. 
 <a href="https://huzaifa-at-work.framer.website/"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 <br/><br/>
-
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
